@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nick Ketz"
+  name             : "Nicholas Ketz"
   avatar           : "151111_headshot_009_bw.jpg"
   bio              : "Computational Cognitive Neuroscientist with interests in Artificial Intelligence"
   location         : "Madison, WI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ketz%20N%5BAuthor%5D&cauthor=true&cauthor_uid=30037830"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Ketz%20N%5BAuthor%5D&cauthor=true&cauthor_uid=30037830"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=VOvR0i8AAAAJ"
   email            : "naketz@hrl.com"
   researchgate     :  https://www.researchgate.net/profile/Nicholas_Ketz # example: "https://www.researchgate.net/profile/yourprofile"

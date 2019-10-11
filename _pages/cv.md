@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * PhD. Psychology, Neuroscience, and Cognitive Science, University Colorado at Boulder, 2016.
 * M.A. Psychology, University Colorado at Boulder, 2013.
 * B.A. Physics, University of Minnesota Twin Cities, 2007.
 * A.A.S Recording Engineer, McNally Smith College of Music, 2001.
 
-Research experience
-======
+## Research experience
 * HRL Laboratories, Information Systems and Sciences Lab, 2016$\rightarrow$
     * Research Scientist
 	* DARPA/IARPA funded projects related to computational cognitive neuroscience
@@ -39,8 +37,7 @@ Research experience
 	* High energy particle detector development under Dr. Tammaso Taberelli
 
 
-Awards
-======
+## Awards
 * HRL Outstanding Cooperative Research And Development program, RAM-Replay 2018
 * Dosier/Muenzinger Dissertation Award 2016
 * David C. Rumelhart Travel Award 2012
@@ -48,8 +45,7 @@ Awards
 * Ida C. Koran Scholarship, 2004-2007
 
 
-Service and leadership
-======
+## Service and leadership
 * Active Journal Reviwer
     * Biological Cybernetics
     * Cognitive Affective and Behavioral Neuroscience
