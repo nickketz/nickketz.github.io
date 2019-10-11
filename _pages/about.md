@@ -13,7 +13,7 @@ I am a research scientist at [HRL laboratories](http://www.hrl.com/) investigati
 Find out more through my [publications](publications), [CV](cv), or more generally in my [resume](/files/nk_resume_2019.pdf).
 
 
-Research Interests
+## Research Interests
 In general I've been working to understand different learning and memory systems and how they can be related to underlying neurobiology. In particular, I'm interested in how the brain encodes new information, how its able to both index and retrieve that information and exert control over these processes in a willful way. Similarly, how learned information can be actively pruned, compressed, and consolidated over time in various neural architectures (both in-vivo and in-silico).  This involves several sub-domains of psychology, neuroscience, and cognitive science including memory, semantics, perception, cognitive control, decision making and reinforcement learning.
 
 I try to use data collected from human participants to inform computer simulations of the neural systems that support the empirically observed behaviors. This includes data collected from behavior in various psychological tasks, functional Magnetic Resonance Imaging (fMRI), and Electroencephalography (EEG). The models I use to simulate these measures are generally neural networks constrained by the known architecture of biological systems, but more recently have incorporated modern approaches or 'deep learning' as well.
