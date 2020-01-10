@@ -13,13 +13,13 @@ author_profile: true
 
 
 ## Preprints
-* Pilly, P. K., Skorheim, S. W., Hubbard, R. J., Ketz, N. A., Roach, S. M., Jones, A. P., Robert, B., Bryant, N. B., Lerner, I., Hartholt, A., et al. (2019). One-shot tagging during wake and cueing during sleep with spatiotemporal patterns of transcranial electrical stimulation can boost long-term metamemory of individual episodes in humans. bioRxiv, page 672378
 * Ladosz, P., Ben-Iwhiwhu, E., Hu, Y., Ketz, N., Kolouri, S., Krichmar, J. L., Pilly, P., and Soltoggio, A. (2019). Deep reinforcement learning with modulated hebbian plus q network architecture. arXiv preprint arXiv:1909.09902
 * Kolouri, S., Ketz, N., Zou, X., Krichmar, J., and Pilly, P. (2019). Attention-based structural-plasticity. arXiv preprint arXiv:1903.06070
 * Ketz, N., Kolouri, S., and Pilly, P. (2019). Using world models for pseudo-rehearsal in continual learning. arXiv preprint arXiv:1903.02647
 
 
 ## Journals
+* Pilly, P. K., Skorheim, S. W., Hubbard, R. J., Ketz, N. A., Roach, S. M., Jones, A. P., Robert, B., Bryant, N. B., Lerner, I., Hartholt, A., et al. (2019). One-shot tagging during wake and cueing during sleep with spatiotemporal patterns of transcranial electrical stimulation can boost long-term metamemory of individual episodes in humans. bioRxiv, page 672378
 * Lerner, I., Ketz, N. A., Jones, A. P., Bryant, N. B., Robert, B., Skorheim, S. W., Hartholt, A., Rizzo, A. S., Gluck, M. A., Clark, V. P., et al. (2019). transcranial current stimulation during sleep facilitates insight into temporal rules, but does not consolidate memories of individual sequential experiences. Scientific reports, 9(1):1516
 * Jones, A. P., Choe, J., Bryant, N. B., Robinson, C. S. H., Ketz, N. A., Skorheim, S. W., Combs, A., Lamphere, M. L., Robert, B., Gill, H. A., et al. (2018). Dose-dependent effects of closed-loop tacs delivered during slow-wave oscillations on memory consolidation. Frontiers in Neuroscience, 12:867
 * Ketz, N., Jones, A. P., Bryant, N. B., Clark, V. P., and Pilly, P. K. (2018). Closed-loop slow-wave tacs improves sleep-dependent long-term memory generalization by modulating endogenous oscillations. Journal of Neuroscience, 38(33):7314–7326
@@ -35,6 +35,8 @@ author_profile: true
 
 
 ## Conference Proceedings
+* Kolouri, Soheil, Ketz, Nicholas A., Soltoggio, Andrea, Pilly, and Praveen K. (2020) Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations. Spotlight presentation at International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia 
+* Jones, Aaron P., Choe, Jaehoon, Bryant, Natalie B., Robinson, Charles S., Ketz, Nicholas A., Skorheim, Steven W., Combs, Angela, Lamphere, Melanie L., Robert, Bradley M., Gill, Hope A., Heinrich, Melissa D., Howard, Mike D., Clark, Vincent P., Pilly, Praveen K. (2019). Closed-oop tACS targeting slow-wave oscillations during sleep enhances consolidation of generalized information. Poster session presented at International Brain Stimulation Conference, Vancouver, BC, CA
 * Hubbard, Ryan J., Ketz, Nicholas A., Jones, Aaron P., Robert, Bradley, Bryant, Natalie B., Skorheim, Steven, Roach, Shane, Clark, Vincent P., and Pilly, Praveen K. (2018). Memory Reactivation with Neurostimulation during Sleep Elicits Electrophysiological Responses that Predict Behavioral Changes. Poster session presented at national conference for the Cognitive Neuroscience Society. Boston, MA
 * Ketz, Nick, Phillips, Matthew, Roach, Shane, and Pilly, Praveen. (2017). Optimized independent component selection for automated EEG artifact removal. Poster session presented at international conference for the Organization for Human Brain Mapping. Vancouver, BC, CA
 * Bryant, N. B., Ketz, N. A., Jones, A. P., Choe, J., Robinson, C. S., Combs, A., ... and Pilly, P. K. (2017). 0245 Closed-Loop tACS During SWS Boosts Slow-wave and Delta Power and Post-Sleep Memory for Threat Detection on Novel Stimuli. Journal of Sleep and Sleep Disorders Research, 40
