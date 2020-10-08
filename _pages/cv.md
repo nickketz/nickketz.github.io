@@ -38,6 +38,7 @@ redirect_from:
 
 
 ## Awards
+* DARPA Lifelong Learning Machines (L2M), 2017-2021 (key personnel)
 * HRL Outstanding Cooperative Research And Development program, RAM-Replay 2018
 * Dosier/Muenzinger Dissertation Award 2016
 * David C. Rumelhart Travel Award 2012
@@ -46,7 +47,8 @@ redirect_from:
 
 
 ## Service and leadership
-* Active Journal Reviwer
+* Active Journal Reviewer
+    * Neural Computation
     * Biological Cybernetics
     * Cognitive Affective and Behavioral Neuroscience
     * NeuroImage
