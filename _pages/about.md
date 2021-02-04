@@ -10,7 +10,7 @@ redirect_from:
 
 I am a research scientist at [HRL laboratories](http://www.hrl.com/) in the [Center for Human Machine Collaboration](http://chmc.hrl.com/) where I'm investigating various aspects of learning and memory. Recently I graduated from the Computational Cognitive Neuroscience Lab at the University Colorado Boulder with [Randy O'Reilly](https://ccnlab.org/people/oreilly/). Before that I did my undergraduate at the University of Minnesota in Minneapolis where I studied Physics, and got involved in computational modeling with [Chad Marsolek](https://cla.umn.edu/about/directory/profile/marso002). I then spent a few years at New York University with [Lila Davachi](https://davachilab.psychology.columbia.edu/) using fMRI to explore the neurobiology of episodic memory. Right now I'm mostly taking all this cognitive neuroscience experience and extending it to modern methods in artificial intelligence research, namely developing machine learning methods and architectures to support neural mechanisms similar to those seen in human learning and memory.
 
-Find out more through my [publications](publications), [CV](cv), or more generally in my [resume](/files/nk_resume_2019.pdf).
+Find out more through my [publications](publications), [CV](cv), or more generally in my [resume](/files/nk_resume.pdf).
 
 
 ## Research Interests
