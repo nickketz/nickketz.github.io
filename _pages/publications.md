@@ -13,12 +13,16 @@ author_profile: true
 
 
 ## Preprints
-* Ladosz, P., Ben-Iwhiwhu, E., Hu, Y., **Ketz**, N., Kolouri, S., Krichmar, J. L., Pilly, P., and Soltoggio, A. (2019). *Deep reinforcement learning with modulated hebbian plus q network architecture.* arXiv preprint arXiv:1909.09902
+* Maguire G, **Ketz** N, Pilly P, Mouret JB. An Online Data-Driven Emergency-Response Method for Autonomous Agents in Unforeseen Situations. arXiv preprint arXiv:2112.09670. 2021 Dec 17.
+* Krichmar JL, Ketz NA, Pilly PK, Soltoggio A. Flexible Path Planning through Vicarious Trial and Error. bioRxiv. 2021 Jan 1.
 * Kolouri, S., **Ketz**, N., Zou, X., Krichmar, J., and Pilly, P. (2019). *Attention-based structural-plasticity.* arXiv preprint arXiv:1903.06070
 * **Ketz**, N., Kolouri, S., and Pilly, P. (2019). *Using world models for pseudo-rehearsal in continual learning.* arXiv preprint arXiv:1903.02647
+* Pilly PK, Skorheim SW, Hubbard RJ, **Ketz** NA, Roach SM, Jones AP, Robert B, Bryant NB, Lerner I, Hartholt A, Mullins TS. *Spatiotemporal patterns of transcranial electrical stimulation can strengthen the metamemory of individual episodic memories in humans.* bioRxiv. 2019 Jun 15:672378.
 
 
 ## Journals
+* Ben-Iwhiwhu E, Dick J, **Ketz** NA, Pilly PK, Soltoggio A. Context meta-reinforcement learning via neuromodulation. Neural Networks. 2022 Aug 1;152:70-9.
+* Ladosz P, Ben-Iwhiwhu E, Dick J, **Ketz** N, Kolouri S, Krichmar JL, Pilly PK, Soltoggio A. Deep Reinforcement Learning With Modulated Hebbian Plus Q-Network Architecture. IEEE Transactions on Neural Networks and Learning Systems. 2021 Sep 24.
 * Pilly, P. K., Skorheim, S. W., Hubbard, R. J., **Ketz**, N. A., Roach, S. M., Lerner, I., ... & Mullins, T. S. (2020). *One-shot tagging during wake and cueing during sleep with spatiotemporal patterns of transcranial electrical stimulation can boost long-term metamemory of individual episodes in humans.* Frontiers in neuroscience, 13, 1416.
 * Lerner, I., **Ketz**, N. A., Jones, A. P., Bryant, N. B., Robert, B., Skorheim, S. W., Hartholt, A., Rizzo, A. S., Gluck, M. A., Clark, V. P., et al. (2019). *transcranial current stimulation during sleep facilitates insight into temporal rules, but does not consolidate memories of individual sequential experiences.* Scientific reports, 9(1):1516
 * Jones, A. P., Choe, J., Bryant, N. B., Robinson, C. S. H., **Ketz**, N. A., Skorheim, S. W., Combs, A., Lamphere, M. L., Robert, B., Gill, H. A., et al. (2018).* Dose-dependent effects of closed-loop tacs delivered during slow-wave oscillations on memory consolidation.* Frontiers in Neuroscience, 12:867
@@ -53,6 +57,9 @@ author_profile: true
 
 
 ## Patents
+* Pilly P, Choe J, Howard M, **Ketz** N, inventors; HRL Laboratories LLC, assignee. *System and method for asynchronous brain control of one or more tasks.* United States patent US 11,237,634. 2022 Feb 1.
+* Kolouri S, **Ketz** NA, Pilly PK, Martin CE, Howard MD, inventors; HRL Laboratories LLC, assignee. *Artificial neural networks having attention-based selective plasticity and methods of training the same.* United States patent US 11,210,559. 2021 Dec 28.
+* Martin CE, **Ketz** NA, Pilly PK, Kolouri S, Howard MD, Stepp ND, inventors; HRL Laboratories LLC, assignee. *Artificial neural network and method of training an artificial neural network with epigenetic neurogenesis.* United States patent US 11,113,597. 2021 Sep 7.
 * **Ketz**, Nicholas A., Matthew E. Phillips, and Praveen K. Pilly. *System and method for optimized independent component selection for automated signal artifact removal to generate a clean signal.* U.S. Patent No. 10,716,514. 21 Jul. 2020.
 * **Ketz**, Nicholas A., et al. *Autonomous system including a continually learning world model and related methods.* U.S. Patent Application No. 16/548,560.
 * Martin, Charles E., et al. *Artificial Neural Network and Method of Training an Artificial Neural Network with Epigenetic Neurogenesis.* U.S. Patent Application No. 16/561,735.

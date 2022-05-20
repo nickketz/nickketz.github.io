@@ -16,8 +16,12 @@ redirect_from:
 * A.A.S Recording Engineer, McNally Smith College of Music, 2001.
 
 ## Research experience
-* HRL Laboratories, Information Systems and Sciences Lab, 2016$\rightarrow$
-    * Research Scientist
+* Colossal Biosciences, Computational Sciences team, 2022$\rightarrow$Present
+  * Computational Scientist
+  * Deep learning methods to aid in conservation and species de-extinction
+  
+* HRL Laboratories, Information Systems and Sciences Lab, 2016$\rightarrow$2022
+  * Research Scientist
 	* DARPA/IARPA funded projects related to computational cognitive neuroscience
 
 * Department of Psychology/Neuroscience, University Colorado Boulder, 2010-2016
