@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Preprints
-* Maguire G, **Ketz** N, Pilly P, Mouret JB. An Online Data-Driven Emergency-Response Method for Autonomous Agents in Unforeseen Situations. arXiv preprint arXiv:2112.09670. 2021 Dec 17.
+* Ketz, N. A., & Pilly, P. K. (2022). Concept-modulated model-based offline reinforcement learning for rapid generalization. arXiv preprint arXiv:2209.03207.
 * Krichmar JL, Ketz NA, Pilly PK, Soltoggio A. Flexible Path Planning through Vicarious Trial and Error. bioRxiv. 2021 Jan 1.
 * Kolouri, S., **Ketz**, N., Zou, X., Krichmar, J., and Pilly, P. (2019). *Attention-based structural-plasticity.* arXiv preprint arXiv:1903.06070
 * **Ketz**, N., Kolouri, S., and Pilly, P. (2019). *Using world models for pseudo-rehearsal in continual learning.* arXiv preprint arXiv:1903.02647
@@ -21,8 +21,11 @@ author_profile: true
 
 
 ## Journals
-* Ben-Iwhiwhu E, Dick J, **Ketz** NA, Pilly PK, Soltoggio A. Context meta-reinforcement learning via neuromodulation. Neural Networks. 2022 Aug 1;152:70-9.
-* Ladosz P, Ben-Iwhiwhu E, Dick J, **Ketz** N, Kolouri S, Krichmar JL, Pilly PK, Soltoggio A. Deep Reinforcement Learning With Modulated Hebbian Plus Q-Network Architecture. IEEE Transactions on Neural Networks and Learning Systems. 2021 Sep 24.
+* Baker, Megan M., et al. *A domain-agnostic approach for characterization of lifelong learning systems.* Neural Networks (2023).
+* Robert, Bradley M., et al. *Closed-loop transcranial alternating current stimulation of slow wave oscillations during sleep reduces declarative learning the next day.* Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation 15.6 (2022): 1565-1566.
+* Ben-Iwhiwhu E, Dick J, **Ketz** NA, Pilly PK, Soltoggio A. *Context meta-reinforcement learning via neuromodulation.* Neural Networks. 2022 Aug 1;152:70-9.
+* Kudithipudi, Dhireesha, et al. "Biological underpinnings for lifelong learning machines." Nature Machine Intelligence 4.3 (2022): 196-210.
+* Ladosz P, Ben-Iwhiwhu E, Dick J, **Ketz** N, Kolouri S, Krichmar JL, Pilly PK, Soltoggio A. *Deep Reinforcement Learning With Modulated Hebbian Plus Q-Network Architecture.* IEEE Transactions on Neural Networks and Learning Systems. 2021 Sep 24.
 * Pilly, P. K., Skorheim, S. W., Hubbard, R. J., **Ketz**, N. A., Roach, S. M., Lerner, I., ... & Mullins, T. S. (2020). *One-shot tagging during wake and cueing during sleep with spatiotemporal patterns of transcranial electrical stimulation can boost long-term metamemory of individual episodes in humans.* Frontiers in neuroscience, 13, 1416.
 * Lerner, I., **Ketz**, N. A., Jones, A. P., Bryant, N. B., Robert, B., Skorheim, S. W., Hartholt, A., Rizzo, A. S., Gluck, M. A., Clark, V. P., et al. (2019). *transcranial current stimulation during sleep facilitates insight into temporal rules, but does not consolidate memories of individual sequential experiences.* Scientific reports, 9(1):1516
 * Jones, A. P., Choe, J., Bryant, N. B., Robinson, C. S. H., **Ketz**, N. A., Skorheim, S. W., Combs, A., Lamphere, M. L., Robert, B., Gill, H. A., et al. (2018).* Dose-dependent effects of closed-loop tacs delivered during slow-wave oscillations on memory consolidation.* Frontiers in Neuroscience, 12:867
@@ -38,6 +41,9 @@ author_profile: true
 
 
 ## Conference Proceedings
+* Krichmar, J. L., **Ketz**, N. A., Pilly, P. K., & Soltoggio, A. (2022, September). *Flexible Path Planning in a Spiking Model of Replay and Vicarious Trial and Error.* In From Animals to Animats 16: 16th International Conference on Simulation of Adaptive Behavior, SAB 2022, Cergy-Pontoise, France, September 20–23, 2022, Proceedings (pp. 177-189). Cham: Springer International Publishing.
+* Xing, J., Zou, X., Pilly, P. K., **Ketz**, N. A., & Krichmar, J. L. (2022, September). *Adapting to Environment Changes Through Neuromodulation of Reinforcement Learning.* In From Animals to Animats 16: 16th International Conference on Simulation of Adaptive Behavior, SAB 2022, Cergy-Pontoise, France, September 20–23, 2022, Proceedings (pp. 115-126). Cham: Springer International Publishing.
+* Maguire, G., **Ketz**, N., Pilly, P. K., & Mouret, J. B. (2022, September). *A-EMS: An Adaptive Emergency Management System for Autonomous Agents in Unforeseen Situations.* In Towards Autonomous Robotic Systems: 23rd Annual Conference, TAROS 2022, Culham, UK, September 7–9, 2022, Proceedings (pp. 266-281). Cham: Springer International Publishing.
 * Kolouri, Soheil, **Ketz**, Nicholas A., Soltoggio, Andrea, Pilly, and Praveen K. (2020) *Sliced Cramer Synaptic Consolidation for Preserving Deeply Learned Representations.* Spotlight presentation at International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia
 * Jones, Aaron P., Choe, Jaehoon, Bryant, Natalie B., Robinson, Charles S., **Ketz**, Nicholas A., Skorheim, Steven W., Combs, Angela, Lamphere, Melanie L., Robert, Bradley M., Gill, Hope A., Heinrich, Melissa D., Howard, Mike D., Clark, Vincent P., Pilly, Praveen K. (2019). *Closed-oop tACS targeting slow-wave oscillations during sleep enhances consolidation of generalized information.* Poster session presented at International Brain Stimulation Conference, Vancouver, BC, CA
 * Hubbard, Ryan J., **Ketz**, Nicholas A., Jones, Aaron P., Robert, Bradley, Bryant, Natalie B., Skorheim, Steven, Roach, Shane, Clark, Vincent P., and Pilly, Praveen K. (2018).* Memory Reactivation with Neurostimulation during Sleep Elicits Electrophysiological Responses that Predict Behavioral Changes.* Poster session presented at national conference for the Cognitive Neuroscience Society. Boston, MA
@@ -57,6 +63,7 @@ author_profile: true
 
 
 ## Patents
+* Pilly, Praveen K., Nicholas A. **Ketz**, and Michael D. Howard. *System and method for safety and efficacy override of an autonomous system.* U.S. Patent No. 11,420,655. 23 Aug. 2022.
 * Pilly P, Choe J, Howard M, **Ketz** N, inventors; HRL Laboratories LLC, assignee. *System and method for asynchronous brain control of one or more tasks.* United States patent US 11,237,634. 2022 Feb 1.
 * Kolouri S, **Ketz** NA, Pilly PK, Martin CE, Howard MD, inventors; HRL Laboratories LLC, assignee. *Artificial neural networks having attention-based selective plasticity and methods of training the same.* United States patent US 11,210,559. 2021 Dec 28.
 * Martin CE, **Ketz** NA, Pilly PK, Kolouri S, Howard MD, Stepp ND, inventors; HRL Laboratories LLC, assignee. *Artificial neural network and method of training an artificial neural network with epigenetic neurogenesis.* United States patent US 11,113,597. 2021 Sep 7.
