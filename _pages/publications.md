@@ -14,6 +14,7 @@ author_profile: true
 
 ## Preprints
 * **Ketz**, N. A., & Pilly, P. K. (2022). Concept-modulated model-based offline reinforcement learning for rapid generalization. arXiv preprint arXiv:2209.03207.
+* Maguire, G., Ketz, N., Pilly, P., & Mouret, J. B. (2021). An Online Data-Driven Emergency-Response Method for Autonomous Agents in Unforeseen Situations. arXiv preprint arXiv:2112.09670.
 * Krichmar JL, **Ketz** NA, Pilly PK, Soltoggio A. Flexible Path Planning through Vicarious Trial and Error. bioRxiv. 2021 Jan 1.
 * Kolouri, S., **Ketz**, N., Zou, X., Krichmar, J., and Pilly, P. (2019). *Attention-based structural-plasticity.* arXiv preprint arXiv:1903.06070
 * **Ketz**, N., Kolouri, S., and Pilly, P. (2019). *Using world models for pseudo-rehearsal in continual learning.* arXiv preprint arXiv:1903.02647
