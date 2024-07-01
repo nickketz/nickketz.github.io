@@ -13,8 +13,8 @@ author_profile: true
 
 
 ## Preprints
-* Ketz, N. A., & Pilly, P. K. (2022). Concept-modulated model-based offline reinforcement learning for rapid generalization. arXiv preprint arXiv:2209.03207.
-* Krichmar JL, Ketz NA, Pilly PK, Soltoggio A. Flexible Path Planning through Vicarious Trial and Error. bioRxiv. 2021 Jan 1.
+* **Ketz**, N. A., & Pilly, P. K. (2022). Concept-modulated model-based offline reinforcement learning for rapid generalization. arXiv preprint arXiv:2209.03207.
+* Krichmar JL, **Ketz** NA, Pilly PK, Soltoggio A. Flexible Path Planning through Vicarious Trial and Error. bioRxiv. 2021 Jan 1.
 * Kolouri, S., **Ketz**, N., Zou, X., Krichmar, J., and Pilly, P. (2019). *Attention-based structural-plasticity.* arXiv preprint arXiv:1903.06070
 * **Ketz**, N., Kolouri, S., and Pilly, P. (2019). *Using world models for pseudo-rehearsal in continual learning.* arXiv preprint arXiv:1903.02647
 * Pilly PK, Skorheim SW, Hubbard RJ, **Ketz** NA, Roach SM, Jones AP, Robert B, Bryant NB, Lerner I, Hartholt A, Mullins TS. *Spatiotemporal patterns of transcranial electrical stimulation can strengthen the metamemory of individual episodic memories in humans.* bioRxiv. 2019 Jun 15:672378.
@@ -63,6 +63,7 @@ author_profile: true
 
 
 ## Patents
+* Pilly, Praveen K., Nicholas A. **Ketz**, and Michael D. Howard. "System and method for improved generalization from concept constrained dreams." U.S. Patent No. 11,907,815. 20 Feb. 2024.
 * Pilly, Praveen K., Nicholas A. **Ketz**, and Michael D. Howard. *System and method for safety and efficacy override of an autonomous system.* U.S. Patent No. 11,420,655. 23 Aug. 2022.
 * Pilly P, Choe J, Howard M, **Ketz** N, inventors; HRL Laboratories LLC, assignee. *System and method for asynchronous brain control of one or more tasks.* United States patent US 11,237,634. 2022 Feb 1.
 * Kolouri S, **Ketz** NA, Pilly PK, Martin CE, Howard MD, inventors; HRL Laboratories LLC, assignee. *Artificial neural networks having attention-based selective plasticity and methods of training the same.* United States patent US 11,210,559. 2021 Dec 28.
