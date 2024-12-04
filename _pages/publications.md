@@ -64,6 +64,7 @@ author_profile: true
 
 
 ## Patents
+* Strelnikoff, Sasha, **Ketz**, Nicholas A., Pilly, Praveen K. "System and method for semantically grounded video generation" US Patent No. 12,106,779, Nov. 2024
 * Pilly, Praveen K., Nicholas A. **Ketz**, and Michael D. Howard. "System and method for improved generalization from concept constrained dreams." U.S. Patent No. 11,907,815. 20 Feb. 2024.
 * Pilly, Praveen K., Nicholas A. **Ketz**, and Michael D. Howard. *System and method for safety and efficacy override of an autonomous system.* U.S. Patent No. 11,420,655. 23 Aug. 2022.
 * Pilly P, Choe J, Howard M, **Ketz** N, inventors; HRL Laboratories LLC, assignee. *System and method for asynchronous brain control of one or more tasks.* United States patent US 11,237,634. 2022 Feb 1.
