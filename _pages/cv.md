@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD. Psychology, Neuroscience, and Cognitive Science, University Colorado at Boulder, 2016.
-* M.A. Psychology, University Colorado at Boulder, 2013.
+* PhD. Psychology, Neuroscience, and Cognitive Science, University of Colorado at Boulder, 2016.
+* M.A. Psychology, University of Colorado at Boulder, 2013.
 * B.A. Physics, University of Minnesota Twin Cities, 2007.
 * A.A.S Recording Engineer, McNally Smith College of Music, 2001.
 
 ## Research experience
 * Form Bio, AI/ML Team, 2022$\rightarrow$Present
-  * Principle Artificial Intelligence Scientist
+  * Principal Artificial Intelligence Scientist
   * DNA Large Language Modeling applied to cell and gene therapy optimization
 
 * Colossal Biosciences, Computational Sciences team, 2022-2022
@@ -28,7 +28,7 @@ redirect_from:
   * Research Scientist
 	* DARPA/IARPA funded projects related to computational cognitive neuroscience
 
-* Department of Psychology/Neuroscience, University Colorado Boulder, 2010-2016
+* Department of Psychology/Neuroscience, University of Colorado Boulder, 2010-2016
 	* PhD.
 	* Computational models of learning and memory under Dr. Randy O'Reilly.
 
@@ -40,9 +40,9 @@ redirect_from:
 	* Directed Research
 	* Neural network modeling of fMRI, and ERP data under Dr. Chad Marsolek
 
-* Department of Physics and Astronomy, University of Milano Biccoca, Summer 2005
+* Department of Physics and Astronomy, University of Milano-Bicocca, Summer 2005
 	* Research Assistant
-	* High energy particle detector development under Dr. Tammaso Taberelli
+	* High energy particle detector development under Dr. Tommaso Tabarelli
 
 
 ## Awards
