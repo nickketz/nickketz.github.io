@@ -10,26 +10,22 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD. Psychology, Neuroscience, and Cognitive Science, University of Colorado at Boulder, 2016.
+* PhD Psychology, Neuroscience, and Cognitive Science, University of Colorado at Boulder, 2016.
 * M.A. Psychology, University of Colorado at Boulder, 2013.
 * B.A. Physics, University of Minnesota Twin Cities, 2007.
 * A.A.S Recording Engineer, McNally Smith College of Music, 2001.
 
 ## Research experience
-* Form Bio, AI/ML Team, 2022$\rightarrow$Present
+* Colossal Biosciences/Form Bio, AI/ML Team, 2022$\rightarrow$Present
   * Principal Artificial Intelligence Scientist
-  * DNA Large Language Modeling applied to cell and gene therapy optimization
-
-* Colossal Biosciences, Computational Sciences team, 2022-2022
-  * Computational Scientist
-  * Deep learning methods to aid in conservation and species de-extinction
+  * DNA Large Language Modeling applied to bioinformations applications 
   
 * HRL Laboratories, Information Systems and Sciences Lab, 2016-2022
   * Research Scientist
 	* DARPA/IARPA funded projects related to computational cognitive neuroscience
 
 * Department of Psychology/Neuroscience, University of Colorado Boulder, 2010-2016
-	* PhD.
+	* PhD
 	* Computational models of learning and memory under Dr. Randy O'Reilly.
 
 * Department of Psychology/Neuroscience, New York University, 2007-2010.
