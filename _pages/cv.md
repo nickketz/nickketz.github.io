@@ -16,9 +16,9 @@ redirect_from:
 * A.A.S Recording Engineer, McNally Smith College of Music, 2001.
 
 ## Research experience
-* Colossal Biosciences/Form Bio, AI/ML Team, 2022$\rightarrow$Present
+* Colossal Biosciences/Form Bio, AI/ML Team, 2022-Present
   * Principal Artificial Intelligence Scientist
-  * DNA Large Language Modeling applied to bioinformations applications 
+  * DNA Large Language Models for cell and gene therapy optimization and cross-species engineering
   
 * HRL Laboratories, Information Systems and Sciences Lab, 2016-2022
   * Research Scientist
